@@ -1,9 +1,22 @@
 * {
-    background-color: blue;
+    background-color: rgb(187, 159, 159);
 }
 .primer {
-    color: aliceblue;
-    background-color: rgb(0, 0, 0); width: 100%; 
+    color: rgb(92, 168, 226);
+    background-color: rgb(231, 135, 135); width: 98%;
     font-size: 5em;
-    height: 100%;
+    padding:50px 25px 35px 20px ;
+    border-radius: 50px;
+    box-shadow:2px 4px 5px 0  rgb(252, 48, 48);
+    outline:200px blue ;
+}
+.Lista {
+    position: relative;
+    left: 50px;
+    color: darkgreen;
+    font-size: 3em;
+}
+#form {
+    color: darkorchid;
+    font-size: 3em;
 }
